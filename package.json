@@ -1,0 +1,21 @@
+{
+  "name": "examensynthese",
+  "version": "1.0.0",
+  "description": "examen de service de fin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ExamenSyntheseService2"
+  },
+  "author": "Raphael Dore",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.7.3",
+    "router": "^1.3.7"
+  }
+}

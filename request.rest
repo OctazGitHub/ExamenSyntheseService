@@ -1,0 +1,10 @@
+###
+GET http://127.0.0.1:8000/api/clients
+###
+GET http://127.0.0.1:8000/api/clients/telephone
+###
+POST http://127.0.0.1:8000/api/clients
+###
+PUT http://127.0.0.1:8000/api/clients/telephone
+###
+DELETE http://127.0.0.1:8000/api/clients/telephone
